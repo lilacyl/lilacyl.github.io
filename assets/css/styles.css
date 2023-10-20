@@ -454,6 +454,7 @@ body.dark-theme {
   margin: auto 0;
   display: grid;
   row-gap: 1rem;
+  font-size: small;
 }
 
 .home__social-link {
@@ -1321,7 +1322,7 @@ body.dark-theme {
     right: -6rem;
   }
   .home__social-link {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     padding: .5rem;
   }
 
